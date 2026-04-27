@@ -1,3 +1,4 @@
+
 localisort -t ./Application/Dopamine/en.lproj/Localizable.strings -i ./Application/Dopamine/ar.lproj/Localizable.strings -r
 localisort -t ./Application/Dopamine/en.lproj/Localizable.strings -i ./Application/Dopamine/da.lproj/Localizable.strings -r
 localisort -t ./Application/Dopamine/en.lproj/Localizable.strings -i ./Application/Dopamine/de.lproj/Localizable.strings -r
